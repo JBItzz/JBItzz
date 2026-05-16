@@ -15,6 +15,8 @@ Tools: Git, Vercel, Discord API
 
 LA City Portal: Lead Developer for the official community website.
 
+CLD: Lead Developer for the Website
+
 Executive Commission: Managing technical infrastructure and legislative oversight for LASD.
 
 LACOMM Assets: Building and maintaining state-level digital tools.
