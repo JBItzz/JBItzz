@@ -1,6 +1,6 @@
 itzz_JB
 
-Lead Developer | CLD
+Lead Developer
 ERLC Content Creator
 
 🛠 Tech Stack
@@ -25,6 +25,6 @@ LACOMM Assets: Building and maintaining state-level digital tools.
 
 Discord: https://discord.com/users/1449065587895701575
 
-Status: Available for technical inquiries regarding city infrastructure.
+Status: Avaialble for new projects.
 
 Manners maketh man.
