@@ -1,16 +1,28 @@
-## Hi there 👋
+itzz_JB
 
-<!--
-**JBItzz/JBItzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lead Developer | CLD
+ERLC Content Creator
 
-Here are some ideas to get you started:
+🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: React, Vite, Tailwind CSS
+
+Logic: JavaScript (ES6+), Node.js
+
+Tools: Git, Vercel, Discord API
+
+🚀 Projects & Roles
+
+LA City Portal: Lead Developer for the official community website.
+
+Executive Commission: Managing technical infrastructure and legislative oversight for LASD.
+
+LACOMM Assets: Building and maintaining state-level digital tools.
+
+📟 Contact
+
+Discord: https://discord.com/users/1449065587895701575
+
+Status: Available for technical inquiries regarding city infrastructure.
+
+Manners maketh man.
