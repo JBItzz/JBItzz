@@ -1,1 +1,1 @@
-https://jb-devz.vercel.app/
+https://itzz-merlin.vercel.app
